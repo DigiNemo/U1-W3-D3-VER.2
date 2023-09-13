@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Montserrat:wght@400;700&display=swap');
+
+body{
+    background-image: url(html\ page.jpeg);
+
+}
+
+#sidebar{
+    font-size: 6em;
+
+}
+
+h1{
+    color: white;
+}
+
+main {
+    text-align: center;
+    margin: 100px;
+}
+
+#ToDoList input{
+    font-size: xxx-large;
+    padding: 20px;
+    background-color: mediumspringgreen;
+    border-style:hidden;
+}
+
+#ToDoList button{
+    font-size: xxx-large;
+    padding: 20px;
+    background-color: rgba(0, 250, 154, 0.422);
+    border-style: none;
+    cursor: pointer;
+    color: white;
+}
+
+#Task{
+    text-align: center;
+}
+
+#Task span{
+    font-size: xxx-large;
+    font-weight: bold;
+    border-radius: 40%;
+    padding: 20px;
+    background-color: rgb(197, 19, 78);
+}
+
+#Task button{
+    font-size:small;
+    font-weight: bold;
+    border-radius: 40%;
+    border-style: none;
+    padding: 20px;
+    background-color: rgba(186, 9, 71, 0.422);
+    color: white;
+}
+
+.taskElement{
+    margin: 100px;
+}
